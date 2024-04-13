@@ -1,0 +1,25 @@
+To: quangnguyenngoc314@gmail.com
+Subject: =?UTF-8?Q?Trang_web_m=E1=BB=9Bi_d=C3=B9ng_WordPress?=
+Date: Fri, 12 Apr 2024 03:54:15 +0000
+From: WordPress <wordpress@gnauqstudio.test>
+Message-ID: <eUKueygQy6CRiynsq1uaEG7Wn1knsR23WYPnbZ1gE@gnauqstudio.test>
+X-Mailer: PHPMailer 6.9.1 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Website WordPress của bạn đã được cài đặt thành công tại:
+
+http://gnauqstudio.test
+
+Bạn có thể đăng nhập bằng tài khoản quản trị với thông tin sau:
+
+Tài khoản: admin
+Mật khẩu: Mật khẩu bạn chọn trong quá trình cài đặt.
+Địa chỉ đăng nhập: http://gnauqstudio.test/wp-login.php
+
+Hi vọng bạn sẽ có trải nghiệm tốt với website mới. Xin cảm ơn!
+
+--WordPress Việt Nam
+https://vi.wordpress.org/
+
